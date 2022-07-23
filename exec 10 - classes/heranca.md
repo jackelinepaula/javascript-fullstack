@@ -1,2 +1,0 @@
--- Herança é um recurso do paradigma Orientado a Objeto
--- Ele permite que classes herdem características de outras classes
